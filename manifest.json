@@ -2,7 +2,7 @@
   "name": "42life Premium",
   "short_name": "42life",
   "description": "Big 5 for Life, Life Wheel & Ziele - Deine persönliche Entwicklungs-App",
-  "start_url": "/big5/42life-premium.html",
+  "start_url": "/big5/42life-premium.html?v=2"
   "scope": "/big5/",
   "display": "standalone",
   "background_color": "#1a1a2e",
